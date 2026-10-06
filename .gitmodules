@@ -1,0 +1,7 @@
+[submodule "GTR"]
+	path = GTR
+	url = https://github.com/abdshomad/GTR
+[submodule "demo-wrapper-only"]
+	path = demo-wrapper-only
+	url = https://github.com/abdshomad/demo-wrapper-only
+	branch = pm2

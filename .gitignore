@@ -1,0 +1,11 @@
+# Local runtime (created by ./install.sh / ./run.sh, never commit)
+.venv/
+weights/
+outputs/
+
+# Local test images (downloaded samples, not fixtures)
+test-images/
+
+# Python
+__pycache__/
+*.pyc
